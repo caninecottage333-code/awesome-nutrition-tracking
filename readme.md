@@ -43,6 +43,7 @@ Free and paid nutrition trackers.
 - [Rex](https://www.rex.fit/) - Calorie and exercise tracking over WhatsApp.
 - [SnackFolio](https://www.snackfolio.com/) - Simple calorie and macro tracker with offline support.
 - [SnapCalorie](https://www.snapcalorie.com/) - Photo-based nutrition mobile app.
+- [TidyCalcs](https://www.tidycalcs.com/) - Free BMI and calorie/TDEE calculators, no signup required.
 - [Track Calories](https://track-calories.com/) - AI-based calorie tracking mobile app.
 - [Tract](https://tract.health) - AI gut-health coach with food, symptom, and bowel-movement tracking for IBD, IBS, and elimination diets.
 - [Ultre](https://ultre.ai/) - Health tracking mobile app.
